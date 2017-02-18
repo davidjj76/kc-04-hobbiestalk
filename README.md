@@ -1,5 +1,7 @@
 # kc-04-hobbiestalk
 
+Ejercicio de la práctica del módulo de Fundamentos de Usabilidad.
+
 Archivo de requisitos
 
 - https://github.com/davidjj76/kc-04-hobbiestalk/blob/master/hobbiestalk.com.pdf
