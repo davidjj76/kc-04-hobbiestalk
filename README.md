@@ -6,7 +6,7 @@ Archivo de requisitos
 
 - https://github.com/davidjj76/kc-04-hobbiestalk/blob/master/hobbiestalk.com.pdf
 
-Imágenes del prototipo
+Imágenes del prototipo (realizadas con la herramienta Pencil Project)
 
 - Desktop: https://github.com/davidjj76/kc-04-hobbiestalk/tree/master/hobbiestalk.com_desktop_pngs
 
